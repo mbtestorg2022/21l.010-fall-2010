@@ -4,19 +4,120 @@ title: Assignments
 uid: 3318280b-8056-b488-c93d-d8e4677e4d39
 ---
 
-| TOPICS | FILES |
-| --- | --- |
-| Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing process\] | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn01)) |
-| "Much Ado" essay instructions (due LEC #8) | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn02)) |
-| "Othello" essay prompt (due LEC #13) | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn03)) |
-| "Henry IV" historical materials (Reading assignments for LEC #15 and LEC #16) | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn04)) |
-| "Henry IV" essay assignment (due LEC #17) | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn05)) |
-| Annotated bibliography guidelines (due LEC #20) | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn07)) |
-| Comparative essay (due 1 day after LEC #23) | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn08)) |
-| Final self-assessment prompt (due LEC #25) | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn09)) |
-| Henry V feedback | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn10)) |
-| Coriolanus feedback | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn11)) |
-| The "Winter's Tale" feedback | ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn12)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing process\]
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Much Ado" essay instructions (due LEC #8)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Othello" essay prompt (due LEC #13)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Henry IV" historical materials (Reading assignments for LEC #15 and LEC #16)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Henry IV" essay assignment (due LEC #17)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Annotated bibliography guidelines (due LEC #20)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Comparative essay (due 1 day after LEC #23)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final self-assessment prompt (due LEC #25)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Henry V feedback
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Coriolanus feedback
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The "Winter's Tale" feedback
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Attendance and Participation** (25%)
 

@@ -18,18 +18,141 @@ Shakespeare, William. _Much Ado about Nothing_. New York, NY: Arden Shakespeare,
 
 ———. _The Winter's Tale_. New York, NY: Modern Library, 2009. ISBN: 9780812969191.
 
-| LEC # | READINGS |
-| --- | --- |
-| 1 | Monologues by Hamlet, Shylock, Portia, Viola, Rosalind, King Lear, Mark Anthony and Cleopatra. Selected sonnets. |
-| 2 | Monologues by Hamlet, Shylock, Portia, Viola, Rosalind, King Lear, Mark Anthony and Cleopatra. Selected sonnets. (cont.) |
-| 3 | Continuation of work on texts assigned in Ses #1 and 2, adding surrounding dialogue. More selected sonnets. |
-| 4 | Shakespeare, William. _Much Ado about Nothing_. New York, NY: Arden Shakespeare, 2005. ISBN: 9781903436837. |
-| 9 | Shakespeare, William. _Othello (Pelican Shakespeare)_. New York, NY: Penguin Classics, 2001. ISBN: 9780140714630. |
-| 10 | Shakespeare, William. _Othello (Pelican Shakespeare)_. New York, NY: Penguin Classics, 2001. ISBN: 9780140714630. (cont.) |
-| 11 | Critical essays on _Othello_ |
-| 12 | Critical essays on _Othello_ (cont.) |
-| 13 | Shakespeare, William. _The First Part of King Henry the Fourth: Texts and Contexts_. Boston, MA: Bedford/Saint Martin's, 1997. ISBN: 9780312134020. |
-| 15 | Historical documents pertinent to Henry IV |
-| 16 | Historical documents pertinent to Henry IV (cont.) |
-| 17 |  {{< br >}}{{< br >}} Shakespeare, William. _Henry V_. New York, NY: Signet Classics, 1998. ISBN: 9780451526908. {{< br >}}{{< br >}} ———. _Coriolanus_. New York, NY: Signet Classics, 1998. ISBN: 9780451528438. {{< br >}}{{< br >}}  |
-| 18 | Criticism and context on your assigned plays. Your selected scenes for performance.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Monologues by Hamlet, Shylock, Portia, Viola, Rosalind, King Lear, Mark Anthony and Cleopatra. Selected sonnets.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Monologues by Hamlet, Shylock, Portia, Viola, Rosalind, King Lear, Mark Anthony and Cleopatra. Selected sonnets. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Continuation of work on texts assigned in Ses #1 and 2, adding surrounding dialogue. More selected sonnets.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, William. _Much Ado about Nothing_. New York, NY: Arden Shakespeare, 2005. ISBN: 9781903436837.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, William. _Othello (Pelican Shakespeare)_. New York, NY: Penguin Classics, 2001. ISBN: 9780140714630.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, William. _Othello (Pelican Shakespeare)_. New York, NY: Penguin Classics, 2001. ISBN: 9780140714630. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Critical essays on _Othello_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Critical essays on _Othello_ (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, William. _The First Part of King Henry the Fourth: Texts and Contexts_. Boston, MA: Bedford/Saint Martin's, 1997. ISBN: 9780312134020.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Historical documents pertinent to Henry IV
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Historical documents pertinent to Henry IV (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shakespeare, William. _Henry V_. New York, NY: Signet Classics, 1998. ISBN: 9780451526908.
+
+———. _Coriolanus_. New York, NY: Signet Classics, 1998. ISBN: 9780451528438.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Criticism and context on your assigned plays. Your selected scenes for performance.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
